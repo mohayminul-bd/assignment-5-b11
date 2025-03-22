@@ -84,7 +84,7 @@ document
       button.style.color = "#a0a0a0";
       button.style.cursor = "default";
 
-      alert("Board updated Successfull");
+      alert("Board updated Successfully");
     }
   });
 
@@ -122,7 +122,7 @@ document
       button.style.color = "#a0a0a0";
       button.style.cursor = "default";
 
-      alert("Board updated Successfull");
+      alert("Board updated Successfully");
     }
   });
 
@@ -160,7 +160,7 @@ document
       button.style.color = "#a0a0a0";
       button.style.cursor = "default";
 
-      alert("Board updated Successfull");
+      alert("Board updated Successfully");
     }
   });
 
@@ -236,7 +236,7 @@ document
         button.style.color = "#a0a0a0";
         button.style.cursor = "default";
 
-        alert("Board updated Successfull");
+        alert("Board updated Successfully");
       }
     });
 
@@ -274,7 +274,7 @@ document
           button.style.color = "#a0a0a0";
           button.style.cursor = "default";
 
-          alert("Board updated Successfull");
+          alert("Board updated Successfully");
           }
           alert("congregation! you are all completed");
       });
