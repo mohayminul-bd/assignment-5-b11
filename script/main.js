@@ -3,15 +3,6 @@ document.getElementById("log-inn").addEventListener('click', function () {
 })
 
 
-document.getElementById("completed-btn").addEventListener('click', function (event) {
-    event.preventDefault();
-
-    const taskNumbers = getInputTextId("task-number");
-    const navNumber = getInputTextId("nav-number");
-
-    
-})
-
 function showNowDate() {
   const now = new Date();
 
